@@ -1,0 +1,34 @@
+{
+     "products": [
+          {
+               "id": 1,
+               "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+               "title": "Cep Telefonu",
+               "price": 6900
+          },
+          {
+               "id": 2,
+               "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+               "title": "Cep Telefonu",
+               "price": 2500
+          },
+          {
+               "id": 3,
+               "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+               "title": "Bilgisayar",
+               "price": 15700
+          },
+          {
+               "id": 4,
+               "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+               "title": "Tost Makinesi",
+               "price": 480
+          },
+          {
+               "id": 5,
+               "content": "wadadhhvwa dawjkd awdaupw azzxwd qwaww ad wadawdajkawhfkjashf dklfj dlkfjhor rdş lgdlşr gkdfm cxv",
+               "title": "Ütü",
+               "price": 585
+          }
+     ]
+}
